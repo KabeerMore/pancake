@@ -1,4 +1,4 @@
-pancke ingrediants
+#pancake ingrediants
 
 milk 
 flour(maida)
